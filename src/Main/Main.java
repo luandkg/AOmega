@@ -17,8 +17,7 @@ public class Main {
 		Debugger.Debugar();
 
 		Debugger.Info("Game Engine - AOmega 1.0  ::  DESENVOLVEDOR : LUAN FREITAS ");
-		Debugger.Info("");
-		Debugger.Info("");
+
 
 		AssetContainer mAssetContainer = new AssetContainer();
 		mAssetContainer.Montar(Local.LocalAtualCom("res/Assets"));
